@@ -15,6 +15,7 @@ def bfs(s):
                 visited[s][node] = 1
                 q.append(node)
 
+
 n = int(input())
 graph = [[] for _ in range(n)]
 visited = [[0] * n for _ in range(n)]

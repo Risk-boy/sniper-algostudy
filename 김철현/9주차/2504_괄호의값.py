@@ -11,19 +11,13 @@ def check():
         elif x == "[":
             stack.append(x)
         elif x == ")":
-            if stack:
-                if stack[-1] == "(":
-                        stack.pop()
-                else:
-                    return False
+            if stack and stack[-1] == "(":
+                    stack.pop()
             else:
                 return False
         elif x == "]":
-            if stack:
-                if stack[-1] == "[":
-                    stack.pop()
-                else:
-                    return False
+            if stack and stack[-1] == "[":
+                stack.pop()
             else:
                 return False
     if stack:
@@ -39,7 +33,7 @@ def solve():
         return dict[s[idx - 1]]
 
     temp = 0
-    while idx < len(s):
+    while True:
         if s[idx] in dict:
             break
         temp += solve()
