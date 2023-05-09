@@ -16,3 +16,7 @@ for x in range(m):
     need = arr[i-1:j]
     need.sort()
     print(need[k-1])
+
+
+# 시간복잡도 고려
+# sort는 보통 퀵 정렬
