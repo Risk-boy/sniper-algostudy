@@ -44,4 +44,13 @@
 | <a href="https://www.acmicpc.net/problem/1074" target="_blank" style="text-decoration:none; color:black; font-weight:bold">Z</a> | 1074  | 분할 정복 |  실버1  |
 
 
+12주차
 
+|                             문제                             | 번호  |  분류  | 난이도  |
+| :----------------------------------------------------------: | :---: | :----: | :-----: |
+| <a href="https://www.acmicpc.net/problem/2851" target="_blank" style="text-decoration:none; color:black; font-weight:bold">슈퍼 마리오</a> | 2851  |  구현  | 브론즈1 |
+| <a href="https://www.acmicpc.net/problem/2846" target="_blank" style="text-decoration:none; color:black; font-weight:bold">오르막길</a> | 2846  |  구현  | 브론즈1 |
+| <a href="https://www.acmicpc.net/problem/2947" target="_blank" style="text-decoration:none; color:black; font-weight:bold">나무 조각</a> | 2947  |  구현  | 브론즈1 |
+| <a href="https://www.acmicpc.net/problem/16435" target="_blank" style="text-decoration:none; color:black; font-weight:bold">스네이크버</a> | 16435 | 그리디 |  실버5  |
+| <a href="https://www.acmicpc.net/problem/15312" target="_blank" style="text-decoration:none; color:black; font-weight:bold">이름 궁합</a> | 15312 |  구현  |  실버5  |
+| <a href="https://www.acmicpc.net/problem/5648" target="_blank" style="text-decoration:none; color:black; font-weight:bold">역원소 정렬</a> | 5648  |  정렬  |  실버5  |
