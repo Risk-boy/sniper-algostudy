@@ -1,0 +1,11 @@
+import sys
+def input():
+    return sys.stdin.readline().rstrip()
+
+F, N = map(int, input().split())
+fruits = sorted(list(map(int,input().split())))
+for i in fruits:
+    if N >= i : 
+        N += 1 
+
+print(N)
