@@ -54,3 +54,16 @@
 | <a href="https://www.acmicpc.net/problem/16435" target="_blank" style="text-decoration:none; color:black; font-weight:bold">스네이크버드</a> | 16435 | 그리디 |  실버5  |
 | <a href="https://www.acmicpc.net/problem/15312" target="_blank" style="text-decoration:none; color:black; font-weight:bold">이름 궁합</a> | 15312 |  구현  |  실버5  |
 | <a href="https://www.acmicpc.net/problem/5648" target="_blank" style="text-decoration:none; color:black; font-weight:bold">역원소 정렬</a> | 5648  |  정렬  |  실버5  |
+
+13주차
+
+|                             문제                             | 번호  |   분류   | 난이도  |
+| :----------------------------------------------------------: | :---: | :------: | :-----: |
+| <a href="https://www.acmicpc.net/problem/1268"  style="text-decoration:none; color:black; font-weight:bold">임시 반장 정하기</a> | 1268  |   구현   | 브론즈1 |
+| <a href="https://www.acmicpc.net/problem/2456"  style="text-decoration:none; color:black; font-weight:bold">나는 학급회장이다</a> | 2456  |   구현   | 브론즈1 |
+| <a href="https://www.acmicpc.net/problem/2999"  style="text-decoration:none; color:black; font-weight:bold">비밀 이메일</a> | 2999  |   구현   | 브론즈1 |
+| <a href="https://www.acmicpc.net/problem/1789"  style="text-decoration:none; color:black; font-weight:bold">수들의 합</a> | 1789  |  그리디  |  실버5  |
+| <a href="https://www.acmicpc.net/problem/8979"  style="text-decoration:none; color:black; font-weight:bold">올림픽</a> | 8979  |   구현   |  실버5  |
+| <a href="https://www.acmicpc.net/problem/1431"  style="text-decoration:none; color:black; font-weight:bold">시리얼 번호</a> | 1431  |   정렬   |  실버3  |
+| <a href="https://www.acmicpc.net/problem/20291"  style="text-decoration:none; color:black; font-weight:bold">파일 정리</a> | 20291 | 자료구조 |  실버3  |
+
