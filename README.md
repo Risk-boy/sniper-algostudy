@@ -4,11 +4,7 @@
 <summary>주차별 목록</summary>
 <div markdown="1">
 
-[9주차](#9주차)
-[10주차](#10주차)
-[11주차](#11주차)
-[12주차](#12주차)
-[13주차](#13주차)
+[9주차](#9주차)|[10주차](#10주차)|[11주차](#11주차)|[12주차](#12주차)|[13주차](#13주차)|[14주차](#14주차)
 
 </div>
 </details>
@@ -79,4 +75,16 @@
 | <a href="https://www.acmicpc.net/problem/8979"  style="text-decoration:none; color:black; font-weight:bold">올림픽</a> | 8979  |   구현   |  실버5  |
 | <a href="https://www.acmicpc.net/problem/1431"  style="text-decoration:none; color:black; font-weight:bold">시리얼 번호</a> | 1431  |   정렬   |  실버3  |
 | <a href="https://www.acmicpc.net/problem/20291"  style="text-decoration:none; color:black; font-weight:bold">파일 정리</a> | 20291 | 자료구조 |  실버3  |
+
+## 14주차
+
+|                             문제                             | 번호  |    분류    | 난이도  |
+| :----------------------------------------------------------: | :---: | :--------: | :-----: |
+| <a href="https://www.acmicpc.net/problem/27962"  style="text-decoration:none; color:black; font-weight:bold">오렌지를먹은지오랜지</a> | 27962 |    구현    | 브론즈1 |
+| <a href="https://www.acmicpc.net/problem/1145"  style="text-decoration:none; color:black; font-weight:bold">적어도 대부분의 배수</a> | 1145  | 브루트포스 | 브론즈1 |
+| <a href="https://www.acmicpc.net/problem/28110"  style="text-decoration:none; color:black; font-weight:bold">마지막 문제</a> | 28110 |   그리디   |  실버4  |
+| <a href="https://www.acmicpc.net/problem/28088"  style="text-decoration:none; color:black; font-weight:bold">응애(EASY)</a> | 28088 |    구현    |  실버4  |
+| <a href="https://www.acmicpc.net/problem/28015"  style="text-decoration:none; color:black; font-weight:bold">영역 색칠</a> | 28015 |   그리디   |  실버2  |
+| <a href="https://www.acmicpc.net/problem/27914"  style="text-decoration:none; color:black; font-weight:bold">인터뷰</a> | 27914 |     DP     |  실버2  |
+| <a href="https://www.acmicpc.net/problem/16948"  style="text-decoration:none; color:black; font-weight:bold">데스 나이트</a> | 16948 | 그래프탐색 |  실버1  |
 
