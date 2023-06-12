@@ -2,12 +2,15 @@
 # 문자열
 # 정렬
 
+# 시간 단축은 sys
+
 from collections import Counter
+import sys
 
 n = int(input())
 file_list = []
 for i in range(n):
-    file_name = input()
+    file_name = sys.stdin.readline().rstrip()
     file_list += [file_name.split('.')[1]]
 
 file = Counter(file_list)
