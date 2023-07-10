@@ -112,5 +112,5 @@
 |    <a href="https://www.acmicpc.net/problem/1010"  style="text-decoration:none; color:black; font-weight:bold">다리 놓기</a>    | 1010  |     DP      |  실버5  |
 |   <a href="https://www.acmicpc.net/problem/11508"  style="text-decoration:none; color:black; font-weight:bold">2 + 1 세일</a>   | 11508 |   그리디    |  실버4  |
 | <a href="https://www.acmicpc.net/problem/1316"  style="text-decoration:none; color:black; font-weight:bold">그룹 단어 체커</a>  | 1316  |    구현     |  실버4  |
-|  <a href="https://www.acmicpc.net/problem/14425"  style="text-decoration:none; color:black; font-weight:bold">문자열 집합</a>   | 14425 |   자료구    |  실버3  |
+|  <a href="https://www.acmicpc.net/problem/14425"  style="text-decoration:none; color:black; font-weight:bold">문자열 집합</a>   | 14425 |  자료구조   |  실버3  |
 | <a href="https://www.acmicpc.net/problem/17073"  style="text-decoration:none; color:black; font-weight:bold">나무 위의 빗물</a> | 17073 | 그래프 이론 |  골드5  |
