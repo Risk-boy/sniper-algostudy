@@ -13,4 +13,5 @@ count = 0
 for i in range(2, n+1):
     if counter[i] == 1:
         count += 1
+        
 print(w / count)
