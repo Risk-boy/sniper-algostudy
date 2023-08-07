@@ -11,6 +11,52 @@
 </div>
 </details>
 
+## Members👨‍💻
+
+<table>
+  <tr>
+      <td align="center">월요일</td>
+      <td align="center">화요일</td>
+      <td align="center">수요일</td>
+      <td align="center">목요일</td>
+      <td align="center">금요일</td>
+  </tr>
+  <tr height="125px">
+    <td align="center" width="180px">
+      <a href="https://github.com/Risk-boy"><img src="https://avatars.githubusercontent.com/Risk-boy"/></a>
+    </td>
+    <td align="center" width="180px">
+      <a href="https://github.com/ebbbi"><img src="https://avatars.githubusercontent.com/ebbbi"/></a>
+    </td>
+    <td align="center" width="180px">
+      <a href="https://github.com/seoseoi"><img src="https://avatars.githubusercontent.com/seoseoi"/></a>
+    </td>
+    <td align="center" width="180px">
+      <a href="https://github.com/Aiden-Jung"><img src="https://avatars.githubusercontent.com/Aiden-Jung"/></a>
+    <td align="center" width="180px">
+      <a href="https://github.com/Puer-Hyun"><img src="https://avatars.githubusercontent.com/Puer-Hyun"/></a>
+    </td>
+
+  </tr>
+  <tr height="70px">
+    <td align="center" width="180px">
+      <a href="https://github.com/Risk-boy">김철현</a>
+    </td>
+    <td align="center" width="180px">
+      <a href="https://github.com/ebbbi">강은비</a>
+    </td>
+    <td align="center" width="180px">
+      <a href="https://github.com/seoseoi">임서연</a>
+    </td>
+    <td align="center" width="180px">
+      <a href="https://github.com/Aiden-Jung">정현석</a>
+    </td>
+    <td align="center" width="180px">
+      <a href="https://github.com/Puer-Hyun">박성현</a>
+    </td>
+  </tr>
+</table>
+
 ## 9주차
 
 |                                                                             문제                                                                             | 번호  |       분류       | 난이도 |
