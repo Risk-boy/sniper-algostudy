@@ -4,10 +4,58 @@
 <summary>주차별 목록</summary>
 <div markdown="1">
 
-[9주차](#9주차)|[10주차](#10주차)|[11주차](#11주차)|[12주차](#12주차)|[13주차](#13주차)|[14주차](#14주차)|[15주차](#15주차)[16주차](#16주차)|[18주차](#18주차)
+[9주차](#9주차)|[10주차](#10주차)|[11주차](#11주차)|[12주차](#12주차)|[13주차](#13주차)|[14주차](#14주차)|[15주차](#15주차)|[16주차](#16주차)|[18주차](#18주차)
+
+[8월 2주차](#8월-2주차)
 
 </div>
 </details>
+
+## Members👨‍💻
+
+<table>
+  <tr>
+      <td align="center">월요일</td>
+      <td align="center">화요일</td>
+      <td align="center">수요일</td>
+      <td align="center">목요일</td>
+      <td align="center">금요일</td>
+  </tr>
+  <tr height="125px">
+    <td align="center" width="180px">
+      <a href="https://github.com/Risk-boy"><img src="https://avatars.githubusercontent.com/Risk-boy"/></a>
+    </td>
+    <td align="center" width="180px">
+      <a href="https://github.com/ebbbi"><img src="https://avatars.githubusercontent.com/ebbbi"/></a>
+    </td>
+    <td align="center" width="180px">
+      <a href="https://github.com/seoseoi"><img src="https://avatars.githubusercontent.com/seoseoi"/></a>
+    </td>
+    <td align="center" width="180px">
+      <a href="https://github.com/Aiden-Jung"><img src="https://avatars.githubusercontent.com/Aiden-Jung"/></a>
+    <td align="center" width="180px">
+      <a href="https://github.com/Puer-Hyun"><img src="https://avatars.githubusercontent.com/Puer-Hyun"/></a>
+    </td>
+
+  </tr>
+  <tr height="70px">
+    <td align="center" width="180px">
+      <a href="https://github.com/Risk-boy">김철현</a>
+    </td>
+    <td align="center" width="180px">
+      <a href="https://github.com/ebbbi">강은비</a>
+    </td>
+    <td align="center" width="180px">
+      <a href="https://github.com/seoseoi">임서연</a>
+    </td>
+    <td align="center" width="180px">
+      <a href="https://github.com/Aiden-Jung">정현석</a>
+    </td>
+    <td align="center" width="180px">
+      <a href="https://github.com/Puer-Hyun">박성현</a>
+    </td>
+  </tr>
+</table>
 
 ## 9주차
 
@@ -114,3 +162,9 @@
 | <a href="https://www.acmicpc.net/problem/1316"  style="text-decoration:none; color:black; font-weight:bold">그룹 단어 체커</a>  | 1316  |    구현     |  실버4  |
 |  <a href="https://www.acmicpc.net/problem/14425"  style="text-decoration:none; color:black; font-weight:bold">문자열 집합</a>   | 14425 |  자료구조   |  실버3  |
 | <a href="https://www.acmicpc.net/problem/17073"  style="text-decoration:none; color:black; font-weight:bold">나무 위의 빗물</a> | 17073 | 그래프 이론 |  골드5  |
+
+## 8월 2주차
+
+|                                                         문제                                                          | 번호  |  분류  | 난이도 |
+| :-------------------------------------------------------------------------------------------------------------------: | :---: | :----: | :----: |
+| <a href="https://www.acmicpc.net/problem/13565"  style="text-decoration:none; color:black; font-weight:bold">침투</a> | 13656 | 그래프 | 실버2  |
