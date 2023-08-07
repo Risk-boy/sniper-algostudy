@@ -4,7 +4,9 @@
 <summary>주차별 목록</summary>
 <div markdown="1">
 
-[9주차](#9주차)|[10주차](#10주차)|[11주차](#11주차)|[12주차](#12주차)|[13주차](#13주차)|[14주차](#14주차)|[15주차](#15주차)[16주차](#16주차)|[18주차](#18주차)
+[9주차](#9주차)|[10주차](#10주차)|[11주차](#11주차)|[12주차](#12주차)|[13주차](#13주차)|[14주차](#14주차)|[15주차](#15주차)|[16주차](#16주차)|[18주차](#18주차)
+
+[8월 2주차](#8월-2주차)
 
 </div>
 </details>
@@ -114,3 +116,14 @@
 | <a href="https://www.acmicpc.net/problem/1316"  style="text-decoration:none; color:black; font-weight:bold">그룹 단어 체커</a>  | 1316  |    구현     |  실버4  |
 |  <a href="https://www.acmicpc.net/problem/14425"  style="text-decoration:none; color:black; font-weight:bold">문자열 집합</a>   | 14425 |  자료구조   |  실버3  |
 | <a href="https://www.acmicpc.net/problem/17073"  style="text-decoration:none; color:black; font-weight:bold">나무 위의 빗물</a> | 17073 | 그래프 이론 |  골드5  |
+
+## 8월 2주차
+
+|                                                         문제                                                          | 번호  |  분류  | 난이도 |
+| :-------------------------------------------------------------------------------------------------------------------: | :---: | :----: | :----: |
+| <a href="https://www.acmicpc.net/problem/13565"  style="text-decoration:none; color:black; font-weight:bold">침투</a> | 13656 | 그래프 | 실버2  |
+|                                                                                                                       |       |        |        |
+|                                                                                                                       |       |        |        |
+|                                                                                                                       |       |        |        |
+|                                                                                                                       |       |        |        |
+|                                                                                                                       |       |        |        |
