@@ -168,3 +168,5 @@
 |                                                         문제                                                          | 번호  |  분류  | 난이도 |
 | :-------------------------------------------------------------------------------------------------------------------: | :---: | :----: | :----: |
 | <a href="https://www.acmicpc.net/problem/13565"  style="text-decoration:none; color:black; font-weight:bold">침투</a> | 13656 | 그래프 | 실버2  |
+| <a href="https://www.acmicpc.net/problem/9536"  style="text-decoration:none; color:black; font-weight:bold">여우는 어떻게 울지?</a> | 9536 | 문자열 | 실버3  |
+| <a href="https://www.acmicpc.net/problem/23030"  style="text-decoration:none; color:black; font-weight:bold">후다다닥을 이겨 츄르를 받자!</a> | 23030 | 구현 | 골드4  |
