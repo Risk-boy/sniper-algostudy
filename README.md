@@ -29,7 +29,7 @@
       <a href="https://github.com/ebbbi"><img src="https://avatars.githubusercontent.com/ebbbi"/></a>
     </td>
     <td align="center" width="180px">
-      <a href="https://github.com/seoseoi"><img src="https://avatars.githubusercontent.com/seoseoi"/></a>
+      <a href="https://github.com/serulean"><img src="https://avatars.githubusercontent.com/serulean"/></a>
     </td>
     <td align="center" width="180px">
       <a href="https://github.com/Aiden-Jung"><img src="https://avatars.githubusercontent.com/Aiden-Jung"/></a>
@@ -46,7 +46,7 @@
       <a href="https://github.com/ebbbi">강은비</a>
     </td>
     <td align="center" width="180px">
-      <a href="https://github.com/seoseoi">임서연</a>
+      <a href="https://github.com/serulean">임서연</a>
     </td>
     <td align="center" width="180px">
       <a href="https://github.com/Aiden-Jung">정현석</a>
@@ -167,6 +167,8 @@
 
 |                                                         문제                                                          | 번호  |  분류  | 난이도 |
 | :-------------------------------------------------------------------------------------------------------------------: | :---: | :----: | :----: |
-| <a href="https://www.acmicpc.net/problem/13565"  style="text-decoration:none; color:black; font-weight:bold">침투</a> | 13656 | 그래프 | 실버2  |
-| <a href="https://www.acmicpc.net/problem/9536"  style="text-decoration:none; color:black; font-weight:bold">여우는 어떻게 울지?</a> | 9536 | 문자열 | 실버3  |
-| <a href="https://www.acmicpc.net/problem/23030"  style="text-decoration:none; color:black; font-weight:bold">후다다닥을 이겨 츄르를 받자!</a> | 23030 | 구현 | 골드4  |
+| <a href="https://www.acmicpc.net/problem/13565"  style="text-decoration:none; color:black; font-weight:bold">침투</a> | 13656 | 그래프 | 실버2 |
+| <a href="https://www.acmicpc.net/problem/9536"  style="text-decoration:none; color:black; font-weight:bold">여우는 어떻게 울지?</a> | 9536 | 문자열 | 실버3 |
+| <a href="https://www.acmicpc.net/problem/23030"  style="text-decoration:none; color:black; font-weight:bold">후다다닥을 이겨 츄르를 받자!</a> | 23030 | 구현 | 골드4 |
+| <a href="https://www.acmicpc.net/problem/3343"  style="text-decoration:none; color:black; font-weight:bold">장미</a> | 3343 | 수학 | 골드4 |
+| <a href="https://www.acmicpc.net/problem/1074"  style="text-decoration:none; color:black; font-weight:bold">Z</a> | 1074 | 분할 정복 | 실버1 |
