@@ -172,3 +172,5 @@
 | <a href="https://www.acmicpc.net/problem/23030"  style="text-decoration:none; color:black; font-weight:bold">후다다닥을 이겨 츄르를 받자!</a> | 23030 | 구현 | 골드4 |
 | <a href="https://www.acmicpc.net/problem/3343"  style="text-decoration:none; color:black; font-weight:bold">장미</a> | 3343 | 수학 | 골드4 |
 | <a href="https://www.acmicpc.net/problem/1074"  style="text-decoration:none; color:black; font-weight:bold">Z</a> | 1074 | 분할 정복 | 실버1 |
+| <a href="https://www.acmicpc.net/problem/1600"  style="text-decoration:none; color:black; font-weight:bold">말이 되고픈 원숭이</a> | 1600 | 그래프 이론 | 골드3 |
+| <a href="https://www.acmicpc.net/problem/3613"  style="text-decoration:none; color:black; font-weight:bold">Java vs C++</a> | 3613 | 구현 | 실버3 |
