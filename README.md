@@ -174,3 +174,5 @@
 | <a href="https://www.acmicpc.net/problem/1074"  style="text-decoration:none; color:black; font-weight:bold">Z</a> | 1074 | 분할 정복 | 실버1 |
 | <a href="https://www.acmicpc.net/problem/1600"  style="text-decoration:none; color:black; font-weight:bold">말이 되고픈 원숭이</a> | 1600 | 그래프 이론 | 골드3 |
 | <a href="https://www.acmicpc.net/problem/3613"  style="text-decoration:none; color:black; font-weight:bold">Java vs C++</a> | 3613 | 구현 | 실버3 |
+| <a href="https://www.acmicpc.net/problem/2228"  style="text-decoration:none; color:black; font-weight:bold">구간 나누기</a> | 2228 | DP | 골드3 |
+| <a href="https://www.acmicpc.net/problem/15723"  style="text-decoration:none; color:black; font-weight:bold">n단 논법</a> | 15723 | 그래프 이론 | 실버1 |
