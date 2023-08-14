@@ -1,6 +1,7 @@
 # sniper-algostudy
 
 ### 주차별 목록
+
 <div markdown="1">
 
 [9주차](#9주차) | [10주차](#10주차) | [11주차](#11주차) | [12주차](#12주차) | [13주차](#13주차) | [14주차](#14주차) | [15주차](#15주차) | [16주차](#16주차) | [18주차](#18주차)
@@ -8,7 +9,6 @@
 [8월 2주차](#8월-2주차) | [8월 3주차](#8월-3주차)
 
 </div>
-
 
 ## Members👨‍💻
 
@@ -164,20 +164,21 @@
 
 ## 8월 2주차
 
-|                                                         문제                                                          | 번호  |  분류  | 난이도 |
-| :-------------------------------------------------------------------------------------------------------------------: | :---: | :----: | :----: |
-| <a href="https://www.acmicpc.net/problem/13565"  style="text-decoration:none; color:black; font-weight:bold">침투</a> | 13656 | 그래프 | 실버2 |
-| <a href="https://www.acmicpc.net/problem/9536"  style="text-decoration:none; color:black; font-weight:bold">여우는 어떻게 울지?</a> | 9536 | 문자열 | 실버3 |
-| <a href="https://www.acmicpc.net/problem/23030"  style="text-decoration:none; color:black; font-weight:bold">후다다닥을 이겨 츄르를 받자!</a> | 23030 | 구현 | 골드4 |
-| <a href="https://www.acmicpc.net/problem/3343"  style="text-decoration:none; color:black; font-weight:bold">장미</a> | 3343 | 수학 | 골드4 |
-| <a href="https://www.acmicpc.net/problem/1074"  style="text-decoration:none; color:black; font-weight:bold">Z</a> | 1074 | 분할 정복 | 실버1 |
-| <a href="https://www.acmicpc.net/problem/1600"  style="text-decoration:none; color:black; font-weight:bold">말이 되고픈 원숭이</a> | 1600 | 그래프 이론 | 골드3 |
-| <a href="https://www.acmicpc.net/problem/3613"  style="text-decoration:none; color:black; font-weight:bold">Java vs C++</a> | 3613 | 구현 | 실버3 |
-| <a href="https://www.acmicpc.net/problem/2228"  style="text-decoration:none; color:black; font-weight:bold">구간 나누기</a> | 2228 | DP | 골드3 |
-| <a href="https://www.acmicpc.net/problem/15723"  style="text-decoration:none; color:black; font-weight:bold">n단 논법</a> | 15723 | 그래프 이론 | 실버1 |
+|                                                                     문제                                                                      | 번호  |    분류     | 난이도 |
+| :-------------------------------------------------------------------------------------------------------------------------------------------: | :---: | :---------: | :----: |
+|             <a href="https://www.acmicpc.net/problem/13565"  style="text-decoration:none; color:black; font-weight:bold">침투</a>             | 13656 |   그래프    | 실버2  |
+|      <a href="https://www.acmicpc.net/problem/9536"  style="text-decoration:none; color:black; font-weight:bold">여우는 어떻게 울지?</a>      | 9536  |   문자열    | 실버3  |
+| <a href="https://www.acmicpc.net/problem/23030"  style="text-decoration:none; color:black; font-weight:bold">후다다닥을 이겨 츄르를 받자!</a> | 23030 |    구현     | 골드4  |
+|             <a href="https://www.acmicpc.net/problem/3343"  style="text-decoration:none; color:black; font-weight:bold">장미</a>              | 3343  |    수학     | 골드4  |
+|               <a href="https://www.acmicpc.net/problem/1074"  style="text-decoration:none; color:black; font-weight:bold">Z</a>               | 1074  |  분할 정복  | 실버1  |
+|      <a href="https://www.acmicpc.net/problem/1600"  style="text-decoration:none; color:black; font-weight:bold">말이 되고픈 원숭이</a>       | 1600  | 그래프 이론 | 골드3  |
+|          <a href="https://www.acmicpc.net/problem/3613"  style="text-decoration:none; color:black; font-weight:bold">Java vs C++</a>          | 3613  |    구현     | 실버3  |
+|          <a href="https://www.acmicpc.net/problem/2228"  style="text-decoration:none; color:black; font-weight:bold">구간 나누기</a>          | 2228  |     DP      | 골드3  |
+|           <a href="https://www.acmicpc.net/problem/15723"  style="text-decoration:none; color:black; font-weight:bold">n단 논법</a>           | 15723 | 그래프 이론 | 실버1  |
 
 ## 8월 3주차
 
-|                                                         문제                                                          | 번호  |  분류  | 난이도 |
-| :-------------------------------------------------------------------------------------------------------------------: | :---: | :----: | :----: |
-| | | | |
+|                                                                문제                                                                 | 번호  |   분류   | 난이도 |
+| :---------------------------------------------------------------------------------------------------------------------------------: | :---: | :------: | :----: |
+| <a href="https://www.acmicpc.net/problem/26069"  style="text-decoration:none; color:black; font-weight:bold">붙임성 좋은 총총이</a> | 26069 | 자료구조 | 실버4  |
+|      <a href="https://www.acmicpc.net/problem/19539"  style="text-decoration:none; color:black; font-weight:bold">사과나무</a>      | 19539 |  그리디  | 골드5  |
