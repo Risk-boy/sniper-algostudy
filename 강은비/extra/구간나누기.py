@@ -16,6 +16,5 @@ for i in range(1, n):
         #nums[i]를 포함x -> i전까지 j개의 구간 그대로 
         dp2[i][j] = max(dp1[i-1][j], dp2[i-1][j])
         
-print(dp1)
-print(dp2)
+
 print(max(dp1[n-1][m], dp2[n-1][m]))       
