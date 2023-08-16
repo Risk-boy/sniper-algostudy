@@ -180,5 +180,10 @@
 
 |                                                                문제                                                                 | 번호  |   분류   | 난이도 |
 | :---------------------------------------------------------------------------------------------------------------------------------: | :---: | :------: | :----: |
-| <a href="https://www.acmicpc.net/problem/26069"  style="text-decoration:none; color:black; font-weight:bold">붙임성 좋은 총총이</a> | 26069 | 자료구조 | 실버4  |
-|      <a href="https://www.acmicpc.net/problem/19539"  style="text-decoration:none; color:black; font-weight:bold">사과나무</a>      | 19539 |  그리디  | 골드5  |
+| <a href="https://www.acmicpc.net/problem/26069"  style="text-decoration:none; color:black; font-weight:bold">붙임성 좋은 총총이</a> | 26069 | 자료구조 | 실버4 |
+|     <a href="https://www.acmicpc.net/problem/19539"  style="text-decoration:none; color:black; font-weight:bold">사과나무</a>     | 19539 | 그리디 | 골드5 |
+| <a href="https://www.acmicpc.net/problem/16637"  style="text-decoration:none; color:black; font-weight:bold">괄호 추가하기</a> | 16637 | 구현 | 골드3 |
+| <a href="https://www.acmicpc.net/problem/20006"  style="text-decoration:none; color:black; font-weight:bold">랭킹전 대기열</a> | 20006 | 구현 | 실버2 |
+| <a href="https://www.acmicpc.net/problem/2961"  style="text-decoration:none; color:black; font-weight:bold">도영이가 만든 맛있는 음식</a> | 2961 | 브루트포스 | 실버2 |
+| <a href="https://www.acmicpc.net/problem/2448"  style="text-decoration:none; color:black; font-weight:bold">별 찍기 - 11</a> | 2448 | 재귀 | 골드4 |
+
