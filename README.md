@@ -186,5 +186,5 @@
 | <a href="https://www.acmicpc.net/problem/20006"  style="text-decoration:none; color:black; font-weight:bold">랭킹전 대기열</a> | 20006 | 구현 | 실버2 |
 | <a href="https://www.acmicpc.net/problem/2961"  style="text-decoration:none; color:black; font-weight:bold">도영이가 만든 맛있는 음식</a> | 2961 | 브루트포스 | 실버2 |
 | <a href="https://www.acmicpc.net/problem/2448"  style="text-decoration:none; color:black; font-weight:bold">별 찍기 - 11</a> | 2448 | 재귀 | 골드4 |
-| <a href="https://www.acmicpc.net/problem/3085"  style="text-decoration:none; color:black; font-weight:bold">사탕 게임</a> | 3085 | 추후추가 | 실버2 |
-| <a href="https://www.acmicpc.net/problem/15684"  style="text-decoration:none; color:black; font-weight:bold">사다리 조작</a> | 15684 | 추후추가 | 골드3 |
+| <a href="https://www.acmicpc.net/problem/3085"  style="text-decoration:none; color:black; font-weight:bold">사탕 게임</a> | 3085 | 구현/브루트포스 | 실버2 |
+| <a href="https://www.acmicpc.net/problem/15684"  style="text-decoration:none; color:black; font-weight:bold">사다리 조작</a> | 15684 | 구현/브루트포스/백트래킹 | 골드3 |
