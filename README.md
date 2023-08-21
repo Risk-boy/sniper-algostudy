@@ -6,7 +6,7 @@
 
 [9주차](#9주차) | [10주차](#10주차) | [11주차](#11주차) | [12주차](#12주차) | [13주차](#13주차) | [14주차](#14주차) | [15주차](#15주차) | [16주차](#16주차) | [18주차](#18주차)
 <br>
-[8월 2주차](#8월-2주차) | [8월 3주차](#8월-3주차)
+[8월 2주차](#8월-2주차) | [8월 3주차](#8월-3주차) | [8월 4주차](#8월-4주차)
 
 </div>
 
@@ -178,13 +178,20 @@
 
 ## 8월 3주차
 
-|                                                                문제                                                                 | 번호  |   분류   | 난이도 |
-| :---------------------------------------------------------------------------------------------------------------------------------: | :---: | :------: | :----: |
-| <a href="https://www.acmicpc.net/problem/26069"  style="text-decoration:none; color:black; font-weight:bold">붙임성 좋은 총총이</a> | 26069 | 자료구조 | 실버4 |
-|     <a href="https://www.acmicpc.net/problem/19539"  style="text-decoration:none; color:black; font-weight:bold">사과나무</a>     | 19539 | 그리디 | 골드5 |
-| <a href="https://www.acmicpc.net/problem/16637"  style="text-decoration:none; color:black; font-weight:bold">괄호 추가하기</a> | 16637 | 구현 | 골드3 |
-| <a href="https://www.acmicpc.net/problem/20006"  style="text-decoration:none; color:black; font-weight:bold">랭킹전 대기열</a> | 20006 | 구현 | 실버2 |
-| <a href="https://www.acmicpc.net/problem/2961"  style="text-decoration:none; color:black; font-weight:bold">도영이가 만든 맛있는 음식</a> | 2961 | 브루트포스 | 실버2 |
-| <a href="https://www.acmicpc.net/problem/2448"  style="text-decoration:none; color:black; font-weight:bold">별 찍기 - 11</a> | 2448 | 재귀 | 골드4 |
-| <a href="https://www.acmicpc.net/problem/3085"  style="text-decoration:none; color:black; font-weight:bold">사탕 게임</a> | 3085 | 구현/브루트포스 | 실버2 |
-| <a href="https://www.acmicpc.net/problem/15684"  style="text-decoration:none; color:black; font-weight:bold">사다리 조작</a> | 15684 | 구현/브루트포스/백트래킹 | 골드3 |
+|                                                                   문제                                                                    | 번호  |           분류           | 난이도 |
+| :---------------------------------------------------------------------------------------------------------------------------------------: | :---: | :----------------------: | :----: |
+|    <a href="https://www.acmicpc.net/problem/26069"  style="text-decoration:none; color:black; font-weight:bold">붙임성 좋은 총총이</a>    | 26069 |         자료구조         | 실버4  |
+|         <a href="https://www.acmicpc.net/problem/19539"  style="text-decoration:none; color:black; font-weight:bold">사과나무</a>         | 19539 |          그리디          | 골드5  |
+|      <a href="https://www.acmicpc.net/problem/16637"  style="text-decoration:none; color:black; font-weight:bold">괄호 추가하기</a>       | 16637 |           구현           | 골드3  |
+|      <a href="https://www.acmicpc.net/problem/20006"  style="text-decoration:none; color:black; font-weight:bold">랭킹전 대기열</a>       | 20006 |           구현           | 실버2  |
+| <a href="https://www.acmicpc.net/problem/2961"  style="text-decoration:none; color:black; font-weight:bold">도영이가 만든 맛있는 음식</a> | 2961  |        브루트포스        | 실버2  |
+|       <a href="https://www.acmicpc.net/problem/2448"  style="text-decoration:none; color:black; font-weight:bold">별 찍기 - 11</a>        | 2448  |           재귀           | 골드4  |
+|         <a href="https://www.acmicpc.net/problem/3085"  style="text-decoration:none; color:black; font-weight:bold">사탕 게임</a>         | 3085  |     구현/브루트포스      | 실버2  |
+|       <a href="https://www.acmicpc.net/problem/15684"  style="text-decoration:none; color:black; font-weight:bold">사다리 조작</a>        | 15684 | 구현/브루트포스/백트래킹 | 골드3  |
+
+## 8월 4주차
+
+|                                                             문제                                                             | 번호  |  분류  | 난이도 |
+| :--------------------------------------------------------------------------------------------------------------------------: | :---: | :----: | :----: |
+| <a href="https://www.acmicpc.net/problem/19941"  style="text-decoration:none; color:black; font-weight:bold">햄버거 분배</a> | 19941 | 그리디 | 실버3  |
+|    <a href="https://www.acmicpc.net/problem/2877"  style="text-decoration:none; color:black; font-weight:bold">4와 7</a>     | 2877  |  수학  | 골드5  |
