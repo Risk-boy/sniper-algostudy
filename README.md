@@ -195,3 +195,7 @@
 | :--------------------------------------------------------------------------------------------------------------------------: | :---: | :----: | :----: |
 | <a href="https://www.acmicpc.net/problem/19941"  style="text-decoration:none; color:black; font-weight:bold">햄버거 분배</a> | 19941 | 그리디 | 실버3  |
 |    <a href="https://www.acmicpc.net/problem/2877"  style="text-decoration:none; color:black; font-weight:bold">4와 7</a>     | 2877  |  수학  | 골드5  |
+|    <a href="https://www.acmicpc.net/problem/11559"  style="text-decoration:none; color:black; font-weight:bold">Puyo Puyo</a>     | 11559  |  구현  | 골드4  |
+|    <a href="https://www.acmicpc.net/problem/19699"  style="text-decoration:none; color:black; font-weight:bold">소-난다!</a>     | 19699  |  수학  | 실버2  |
+|    <a href="https://www.acmicpc.net/problem/4803"  style="text-decoration:none; color:black; font-weight:bold">트리</a>     | 4803  |  자료 구조/그래프  | 골드4  |
+|    <a href="https://www.acmicpc.net/problem/17123"  style="text-decoration:none; color:black; font-weight:bold">배열 놀이</a>     | 17123  |  누적 합  | 실버2  |
