@@ -199,5 +199,5 @@
 |    <a href="https://www.acmicpc.net/problem/19699"  style="text-decoration:none; color:black; font-weight:bold">소-난다!</a>     | 19699  |  수학  | 실버2  |
 |    <a href="https://www.acmicpc.net/problem/4803"  style="text-decoration:none; color:black; font-weight:bold">트리</a>     | 4803  |  자료 구조/그래프  | 골드4  |
 |    <a href="https://www.acmicpc.net/problem/17123"  style="text-decoration:none; color:black; font-weight:bold">배열 놀이</a>     | 17123  |  누적 합  | 실버2  |
-|    <a href="https://www.acmicpc.net/problem/6236"  style="text-decoration:none; color:black; font-weight:bold">용돈 관리</a>     | 6236  |  추후추가  | 실버2  |
-|    <a href="https://www.acmicpc.net/problem/16235"  style="text-decoration:none; color:black; font-weight:bold">나무 재테크</a>     | 16235  |  추후추가  | 골드3  |
+|    <a href="https://www.acmicpc.net/problem/6236"  style="text-decoration:none; color:black; font-weight:bold">용돈 관리</a>     | 6236  |  이분 탐색/매개 변수 탐색  | 실버2  |
+|    <a href="https://www.acmicpc.net/problem/16235"  style="text-decoration:none; color:black; font-weight:bold">나무 재테크</a>     | 16235  |  구현/자료구조/시뮬레이션  | 골드3  |
