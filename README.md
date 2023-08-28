@@ -204,7 +204,7 @@
 
 ## 8월 5주차
 
-|                                                              문제                                                               | 번호  |   분류   | 난이도 |
-| :-----------------------------------------------------------------------------------------------------------------------------: | :---: | :------: | :----: |
-| <a href="https://www.acmicpc.net/problem/1254"  style="text-decoration:none; color:black; font-weight:bold">팰린드롬 만들기</a> | 1254  | 안알랴줌 | 실버2  |
-| <a href="https://www.acmicpc.net/problem/14921"  style="text-decoration:none; color:black; font-weight:bold">용액 합성하기</a>  | 14921 | 안알랴줌 | 골드5  |
+|                                                              문제                                                               | 번호  |        분류        | 난이도 |
+| :-----------------------------------------------------------------------------------------------------------------------------: | :---: | :----------------: | :----: |
+| <a href="https://www.acmicpc.net/problem/1254"  style="text-decoration:none; color:black; font-weight:bold">팰린드롬 만들기</a> | 1254  | 문자열, 브루트포스 | 실버2  |
+| <a href="https://www.acmicpc.net/problem/14921"  style="text-decoration:none; color:black; font-weight:bold">용액 합성하기</a>  | 14921 |     투 포인터      | 골드5  |
