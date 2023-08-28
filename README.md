@@ -191,13 +191,20 @@
 
 ## 8월 4주차
 
-|                                                             문제                                                             | 번호  |  분류  | 난이도 |
-| :--------------------------------------------------------------------------------------------------------------------------: | :---: | :----: | :----: |
-| <a href="https://www.acmicpc.net/problem/19941"  style="text-decoration:none; color:black; font-weight:bold">햄버거 분배</a> | 19941 | 그리디 | 실버3  |
-|    <a href="https://www.acmicpc.net/problem/2877"  style="text-decoration:none; color:black; font-weight:bold">4와 7</a>     | 2877  |  수학  | 골드5  |
-|    <a href="https://www.acmicpc.net/problem/11559"  style="text-decoration:none; color:black; font-weight:bold">Puyo Puyo</a>     | 11559  |  구현  | 골드4  |
-|    <a href="https://www.acmicpc.net/problem/19699"  style="text-decoration:none; color:black; font-weight:bold">소-난다!</a>     | 19699  |  수학  | 실버2  |
-|    <a href="https://www.acmicpc.net/problem/4803"  style="text-decoration:none; color:black; font-weight:bold">트리</a>     | 4803  |  자료 구조/그래프  | 골드4  |
-|    <a href="https://www.acmicpc.net/problem/17123"  style="text-decoration:none; color:black; font-weight:bold">배열 놀이</a>     | 17123  |  누적 합  | 실버2  |
-|    <a href="https://www.acmicpc.net/problem/6236"  style="text-decoration:none; color:black; font-weight:bold">용돈 관리</a>     | 6236  |  이분 탐색/매개 변수 탐색  | 실버2  |
-|    <a href="https://www.acmicpc.net/problem/16235"  style="text-decoration:none; color:black; font-weight:bold">나무 재테크</a>     | 16235  |  구현/자료구조/시뮬레이션  | 골드3  |
+|                                                             문제                                                             | 번호  |           분류           | 난이도 |
+| :--------------------------------------------------------------------------------------------------------------------------: | :---: | :----------------------: | :----: |
+| <a href="https://www.acmicpc.net/problem/19941"  style="text-decoration:none; color:black; font-weight:bold">햄버거 분배</a> | 19941 |          그리디          | 실버3  |
+|    <a href="https://www.acmicpc.net/problem/2877"  style="text-decoration:none; color:black; font-weight:bold">4와 7</a>     | 2877  |           수학           | 골드5  |
+|  <a href="https://www.acmicpc.net/problem/11559"  style="text-decoration:none; color:black; font-weight:bold">Puyo Puyo</a>  | 11559 |           구현           | 골드4  |
+|  <a href="https://www.acmicpc.net/problem/19699"  style="text-decoration:none; color:black; font-weight:bold">소-난다!</a>   | 19699 |           수학           | 실버2  |
+|     <a href="https://www.acmicpc.net/problem/4803"  style="text-decoration:none; color:black; font-weight:bold">트리</a>     | 4803  |     자료 구조/그래프     | 골드4  |
+|  <a href="https://www.acmicpc.net/problem/17123"  style="text-decoration:none; color:black; font-weight:bold">배열 놀이</a>  | 17123 |         누적 합          | 실버2  |
+|  <a href="https://www.acmicpc.net/problem/6236"  style="text-decoration:none; color:black; font-weight:bold">용돈 관리</a>   | 6236  | 이분 탐색/매개 변수 탐색 | 실버2  |
+| <a href="https://www.acmicpc.net/problem/16235"  style="text-decoration:none; color:black; font-weight:bold">나무 재테크</a> | 16235 | 구현/자료구조/시뮬레이션 | 골드3  |
+
+## 8월 5주차
+
+|                                                                 문제                                                                 | 번호  |   분류   | 난이도 |
+| :----------------------------------------------------------------------------------------------------------------------------------: | :---: | :------: | :----: |
+|   <a href="https://www.acmicpc.net/problem/1254"  style="text-decoration:none; color:black; font-weight:bold">팰린드롬 만들기</a>    | 1254  | 안알랴줌 | 실버2  |
+| <a href="https://www.acmicpc.net/problem/14921"  style="text-decoration:none; color:black; font-weight:bold">여우는 어떻게 울지?</a> | 14921 | 안알랴줌 | 골드5  |
