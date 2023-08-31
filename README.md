@@ -204,9 +204,13 @@
 
 ## 8월 5주차
 
-|                                                              문제                                                               | 번호  |        분류        | 난이도 |
-| :-----------------------------------------------------------------------------------------------------------------------------: | :---: | :----------------: | :----: |
-| <a href="https://www.acmicpc.net/problem/1254"  style="text-decoration:none; color:black; font-weight:bold">팰린드롬 만들기</a> | 1254  | 문자열, 브루트포스 | 실버2  |
-| <a href="https://www.acmicpc.net/problem/14921"  style="text-decoration:none; color:black; font-weight:bold">용액 합성하기</a>  | 14921 |     투 포인터      | 골드5  |
-| <a href="https://www.acmicpc.net/problem/15954"  style="text-decoration:none; color:black; font-weight:bold">인형들</a> | 15954  | 추후추가 | 실버1  |
-| <a href="https://www.acmicpc.net/problem/17822"  style="text-decoration:none; color:black; font-weight:bold">원판 돌리기</a>  | 17822 |     추후추가      | 골드2  |
+|                                                                   문제                                                                   | 번호  |        분류        | 난이도 |
+| :--------------------------------------------------------------------------------------------------------------------------------------: | :---: | :----------------: | :----: |
+|     <a href="https://www.acmicpc.net/problem/1254"  style="text-decoration:none; color:black; font-weight:bold">팰린드롬 만들기</a>      | 1254  | 문자열, 브루트포스 | 실버2  |
+|      <a href="https://www.acmicpc.net/problem/14921"  style="text-decoration:none; color:black; font-weight:bold">용액 합성하기</a>      | 14921 |     투 포인터      | 골드5  |
+|      <a href="https://www.acmicpc.net/problem/1713"  style="text-decoration:none; color:black; font-weight:bold">후보 추천하기</a>       | 1713  |        구현        | 실버1  |
+|        <a href="https://www.acmicpc.net/problem/17141"  style="text-decoration:none; color:black; font-weight:bold">연구소 2</a>         | 17141 |    그래프 탐색     | 골드4  |
+|           <a href="https://www.acmicpc.net/problem/4097"  style="text-decoration:none; color:black; font-weight:bold">수익</a>           | 4097  |         DP         | 실버2  |
+| <a href="https://www.acmicpc.net/problem/20165"  style="text-decoration:none; color:black; font-weight:bold">인내의 도미노 장인 호석</a> | 20165 |        구현        | 골드5  |
+|         <a href="https://www.acmicpc.net/problem/15954"  style="text-decoration:none; color:black; font-weight:bold">인형들</a>          | 15954 |  수학/브루트포스   | 실버1  |
+|       <a href="https://www.acmicpc.net/problem/17822"  style="text-decoration:none; color:black; font-weight:bold">원판 돌리기</a>       | 17822 |  구현/시뮬레이션   | 골드2  |
