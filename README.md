@@ -7,6 +7,8 @@
 [9주차](#9주차) | [10주차](#10주차) | [11주차](#11주차) | [12주차](#12주차) | [13주차](#13주차) | [14주차](#14주차) | [15주차](#15주차) | [16주차](#16주차) | [18주차](#18주차)
 <br>
 [8월 2주차](#8월-2주차) | [8월 3주차](#8월-3주차) | [8월 4주차](#8월-4주차) | [8월 5주차](#8월-5주차)
+<br>
+[9월 2주차](#9월-2주차)
 
 </div>
 
@@ -214,3 +216,12 @@
 | <a href="https://www.acmicpc.net/problem/20165"  style="text-decoration:none; color:black; font-weight:bold">인내의 도미노 장인 호석</a> | 20165 |        구현        | 골드5  |
 |         <a href="https://www.acmicpc.net/problem/15954"  style="text-decoration:none; color:black; font-weight:bold">인형들</a>          | 15954 |  수학/브루트포스   | 실버1  |
 |       <a href="https://www.acmicpc.net/problem/17822"  style="text-decoration:none; color:black; font-weight:bold">원판 돌리기</a>       | 17822 |  구현/시뮬레이션   | 골드2  |
+|        <a href="https://www.acmicpc.net/problem/17615"  style="text-decoration:none; color:black; font-weight:bold">볼 모으기</a>        | 17615 |       그리디       | 실버1  |
+|        <a href="https://www.acmicpc.net/problem/22859"  style="text-decoration:none; color:black; font-weight:bold">HTML 파싱</a>        | 22859 |  구현/문자열/파싱  | 골드3  |
+
+## 9월 2주차
+
+|                                                           문제                                                            | 번호 |  분류  | 난이도 |
+| :-----------------------------------------------------------------------------------------------------------------------: | :--: | :----: | :----: |
+| <a href="https://www.acmicpc.net/problem/2343"  style="text-decoration:none; color:black; font-weight:bold">기타 레슨</a> | 2343 | 화이팅 | 실버1  |
+| <a href="https://www.acmicpc.net/problem/2660"  style="text-decoration:none; color:black; font-weight:bold">회장 뽑기</a> | 2660 | 화이팅 | 골드5  |
