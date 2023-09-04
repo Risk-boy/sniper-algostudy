@@ -221,7 +221,7 @@
 
 ## 9월 2주차
 
-|                                                           문제                                                            | 번호 |  분류  | 난이도 |
-| :-----------------------------------------------------------------------------------------------------------------------: | :--: | :----: | :----: |
-| <a href="https://www.acmicpc.net/problem/2343"  style="text-decoration:none; color:black; font-weight:bold">기타 레슨</a> | 2343 | 화이팅 | 실버1  |
-| <a href="https://www.acmicpc.net/problem/2660"  style="text-decoration:none; color:black; font-weight:bold">회장 뽑기</a> | 2660 | 화이팅 | 골드5  |
+|                                                           문제                                                            | 번호 |         분류         | 난이도 |
+| :-----------------------------------------------------------------------------------------------------------------------: | :--: | :------------------: | :----: |
+| <a href="https://www.acmicpc.net/problem/2343"  style="text-decoration:none; color:black; font-weight:bold">기타 레슨</a> | 2343 |      이분 탐색       | 실버1  |
+| <a href="https://www.acmicpc.net/problem/2660"  style="text-decoration:none; color:black; font-weight:bold">회장 뽑기</a> | 2660 | 그래프/플로이드 워셜 | 골드5  |
