@@ -221,9 +221,11 @@
 
 ## 9월 2주차
 
-|                                                           문제                                                            | 번호 |         분류         | 난이도 |
-| :-----------------------------------------------------------------------------------------------------------------------: | :--: | :------------------: | :----: |
-| <a href="https://www.acmicpc.net/problem/2343"  style="text-decoration:none; color:black; font-weight:bold">기타 레슨</a> | 2343 |      이분 탐색       | 실버1  |
-| <a href="https://www.acmicpc.net/problem/2660"  style="text-decoration:none; color:black; font-weight:bold">회장 뽑기</a> | 2660 | 그래프/플로이드 워셜 | 골드5  |
-| <a href="https://www.acmicpc.net/problem/1802"  style="text-decoration:none; color:black; font-weight:bold">종이 접기</a> | 1802 |      추후추가       | 실버1  |
-| <a href="https://www.acmicpc.net/problem/19238"  style="text-decoration:none; color:black; font-weight:bold">스타트 택시</a> | 19238 | 추후추가 | 골드2  |
+|                                                              문제                                                               | 번호  |             분류             | 난이도 |
+| :-----------------------------------------------------------------------------------------------------------------------------: | :---: | :--------------------------: | :----: |
+|    <a href="https://www.acmicpc.net/problem/2343"  style="text-decoration:none; color:black; font-weight:bold">기타 레슨</a>    | 2343  |          이분 탐색           | 실버1  |
+|    <a href="https://www.acmicpc.net/problem/2660"  style="text-decoration:none; color:black; font-weight:bold">회장 뽑기</a>    | 2660  |     그래프/플로이드 워셜     | 골드5  |
+| <a href="https://www.acmicpc.net/problem/17413"  style="text-decoration:none; color:black; font-weight:bold">단어 뒤집기 2</a>  | 17413 |         구현/문자열          | 실버3  |
+| <a href="https://www.acmicpc.net/problem/1774"  style="text-decoration:none; color:black; font-weight:bold">우주신과의 교감</a> | 1774  | 그래프 이론/최소 스패닝 트리 | 골드3  |
+|    <a href="https://www.acmicpc.net/problem/1802"  style="text-decoration:none; color:black; font-weight:bold">종이 접기</a>    | 1802  |      분할 정복/애드 혹       | 실버1  |
+|  <a href="https://www.acmicpc.net/problem/19238"  style="text-decoration:none; color:black; font-weight:bold">스타트 택시</a>   | 19238 |     구현/시뮬레이션/BFS      | 골드2  |
