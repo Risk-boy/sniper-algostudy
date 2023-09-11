@@ -8,7 +8,7 @@
 <br>
 [8월 2주차](#8월-2주차) | [8월 3주차](#8월-3주차) | [8월 4주차](#8월-4주차) | [8월 5주차](#8월-5주차)
 <br>
-[9월 2주차](#9월-2주차)
+[9월 2주차](#9월-2주차) | [9월 3주차](#9월-3주차)
 
 </div>
 
@@ -221,13 +221,22 @@
 
 ## 9월 2주차
 
-|                                                              문제                                                               | 번호  |             분류             | 난이도 |
-| :-----------------------------------------------------------------------------------------------------------------------------: | :---: | :--------------------------: | :----: |
-|    <a href="https://www.acmicpc.net/problem/2343"  style="text-decoration:none; color:black; font-weight:bold">기타 레슨</a>    | 2343  |          이분 탐색           | 실버1  |
-|    <a href="https://www.acmicpc.net/problem/2660"  style="text-decoration:none; color:black; font-weight:bold">회장 뽑기</a>    | 2660  |     그래프/플로이드 워셜     | 골드5  |
-| <a href="https://www.acmicpc.net/problem/17503"  style="text-decoration:none; color:black; font-weight:bold">맥주 축제</a>  | 17503 |         자료구조/그리디/정렬     | 실버1  |
-| <a href="https://www.acmicpc.net/problem/17135"  style="text-decoration:none; color:black; font-weight:bold">캐슬 디펜스</a>  | 17135 |         구현/그래프          | 골드3  |
-| <a href="https://www.acmicpc.net/problem/17413"  style="text-decoration:none; color:black; font-weight:bold">단어 뒤집기 2</a>  | 17413 |         구현/문자열          | 실버3  |
-| <a href="https://www.acmicpc.net/problem/1774"  style="text-decoration:none; color:black; font-weight:bold">우주신과의 교감</a> | 1774  | 그래프 이론/최소 스패닝 트리 | 골드3  |
-|    <a href="https://www.acmicpc.net/problem/1802"  style="text-decoration:none; color:black; font-weight:bold">종이 접기</a>    | 1802  |      분할 정복/애드 혹       | 실버1  |
-|  <a href="https://www.acmicpc.net/problem/19238"  style="text-decoration:none; color:black; font-weight:bold">스타트 택시</a>   | 19238 |     구현/시뮬레이션/BFS      | 골드2  |
+|                                                               문제                                                                | 번호  |             분류             | 난이도 |
+| :-------------------------------------------------------------------------------------------------------------------------------: | :---: | :--------------------------: | :----: |
+|     <a href="https://www.acmicpc.net/problem/2343"  style="text-decoration:none; color:black; font-weight:bold">기타 레슨</a>     | 2343  |          이분 탐색           | 실버1  |
+|     <a href="https://www.acmicpc.net/problem/2660"  style="text-decoration:none; color:black; font-weight:bold">회장 뽑기</a>     | 2660  |     그래프/플로이드 워셜     | 골드5  |
+|    <a href="https://www.acmicpc.net/problem/17503"  style="text-decoration:none; color:black; font-weight:bold">맥주 축제</a>     | 17503 |     자료구조/그리디/정렬     | 실버1  |
+|   <a href="https://www.acmicpc.net/problem/17135"  style="text-decoration:none; color:black; font-weight:bold">캐슬 디펜스</a>    | 17135 |         구현/그래프          | 골드3  |
+|  <a href="https://www.acmicpc.net/problem/17413"  style="text-decoration:none; color:black; font-weight:bold">단어 뒤집기 2</a>   | 17413 |         구현/문자열          | 실버3  |
+|  <a href="https://www.acmicpc.net/problem/1774"  style="text-decoration:none; color:black; font-weight:bold">우주신과의 교감</a>  | 1774  | 그래프 이론/최소 스패닝 트리 | 골드3  |
+|     <a href="https://www.acmicpc.net/problem/1802"  style="text-decoration:none; color:black; font-weight:bold">종이 접기</a>     | 1802  |      분할 정복/애드 혹       | 실버1  |
+|   <a href="https://www.acmicpc.net/problem/19238"  style="text-decoration:none; color:black; font-weight:bold">스타트 택시</a>    | 19238 |     구현/시뮬레이션/BFS      | 골드2  |
+| <a href="https://www.acmicpc.net/problem/11725"  style="text-decoration:none; color:black; font-weight:bold">트리의 부모 찾기</a> | 11725 |         그래프 탐색          | 실버2  |
+|    <a href="https://www.acmicpc.net/problem/1717"  style="text-decoration:none; color:black; font-weight:bold">집합의 표현</a>    | 1717  |          분리 집합           | 골드5  |
+
+## 9월 3주차
+
+|                                                                   문제                                                                    | 번호  |  분류  | 난이도 |
+| :---------------------------------------------------------------------------------------------------------------------------------------: | :---: | :----: | :----: |
+| <a href="https://www.acmicpc.net/problem/29714"  style="text-decoration:none; color:black; font-weight:bold">브실이의 구슬 아이스크림</a> | 29714 |  구현  | 실버2  |
+|    <a href="https://www.acmicpc.net/problem/29726"  style="text-decoration:none; color:black; font-weight:bold">숏코딩의 왕 브실이</a>    | 29726 | 그리디 | 골드5  |
