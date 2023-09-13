@@ -240,3 +240,8 @@
 | :---------------------------------------------------------------------------------------------------------------------------------------: | :---: | :----: | :----: |
 | <a href="https://www.acmicpc.net/problem/29714"  style="text-decoration:none; color:black; font-weight:bold">브실이의 구슬 아이스크림</a> | 29714 |  구현  | 실버2  |
 |    <a href="https://www.acmicpc.net/problem/29726"  style="text-decoration:none; color:black; font-weight:bold">숏코딩의 왕 브실이</a>    | 29726 | 그리디 | 골드5  |
+|    <a href="https://www.acmicpc.net/problem/17225"  style="text-decoration:none; color:black; font-weight:bold">세훈이의 선물가게</a>    | 17225 | 구현 | 실버1  |
+|    <a href="https://www.acmicpc.net/problem/2528"  style="text-decoration:none; color:black; font-weight:bold">사다리</a>    | 2528 | 구현 | 골드3  |
+|    <a href="https://www.acmicpc.net/problem/7453"  style="text-decoration:none; color:black; font-weight:bold">합이 0인 네 정수</a>    | 7453 | 정렬 | 골드2  |
+|    <a href="https://www.acmicpc.net/problem/10025"  style="text-decoration:none; color:black; font-weight:bold">게으른 백곰</a>    | 10025 | 누적 합 | 실버3  |
+
