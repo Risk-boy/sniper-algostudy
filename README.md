@@ -244,4 +244,5 @@
 |    <a href="https://www.acmicpc.net/problem/2528"  style="text-decoration:none; color:black; font-weight:bold">사다리</a>    | 2528 | 구현 | 골드3  |
 |    <a href="https://www.acmicpc.net/problem/7453"  style="text-decoration:none; color:black; font-weight:bold">합이 0인 네 정수</a>    | 7453 | 정렬 | 골드2  |
 |    <a href="https://www.acmicpc.net/problem/10025"  style="text-decoration:none; color:black; font-weight:bold">게으른 백곰</a>    | 10025 | 누적 합 | 실버3  |
-
+|    <a href="https://www.acmicpc.net/problem/1522"  style="text-decoration:none; color:black; font-weight:bold">문자열 교환</a>    | 1522 | 추후추가 | 실버1  |
+|    <a href="https://www.acmicpc.net/problem/17825"  style="text-decoration:none; color:black; font-weight:bold">주사위 윷놀이</a>    | 17825 | 추후추가 | 골드2  |
