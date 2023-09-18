@@ -8,7 +8,7 @@
 <br>
 [8월 2주차](#8월-2주차) | [8월 3주차](#8월-3주차) | [8월 4주차](#8월-4주차) | [8월 5주차](#8월-5주차)
 <br>
-[9월 2주차](#9월-2주차) | [9월 3주차](#9월-3주차)
+[9월 2주차](#9월-2주차) | [9월 3주차](#9월-3주차) | [9월 4주차](#9월-4주차)
 
 </div>
 
@@ -246,3 +246,12 @@
 |    <a href="https://www.acmicpc.net/problem/10025"  style="text-decoration:none; color:black; font-weight:bold">게으른 백곰</a>    | 10025 | 누적 합 | 실버3  |
 |    <a href="https://www.acmicpc.net/problem/1522"  style="text-decoration:none; color:black; font-weight:bold">문자열 교환</a>    | 1522 | 브루트포스/슬라이딩 윈도우 | 실버1  |
 |    <a href="https://www.acmicpc.net/problem/17825"  style="text-decoration:none; color:black; font-weight:bold">주사위 윷놀이</a>    | 17825 | 구현/브루트포스/시뮬레이션/백트래킹 | 골드2  |
+|    <a href="https://www.acmicpc.net/problem/11060"  style="text-decoration:none; color:black; font-weight:bold">점프 점프</a>    | 11060 | DP | 실버2  |
+|    <a href="https://www.acmicpc.net/problem/20182"  style="text-decoration:none; color:black; font-weight:bold">골목 대장 호석 - 효율성 1</a> | 20182 | 그래프 | 골드3  |
+
+## 9월 4주차
+
+|                                                                   문제                                                                    | 번호  |  분류  | 난이도 |
+| :---------------------------------------------------------------------------------------------------------------------------------------: | :---: | :----: | :----: |
+| <a href="https://www.acmicpc.net/problem/25045"  style="text-decoration:none; color:black; font-weight:bold">비즈마켓</a> | 25045 |  그리디  | 실버3  |
+|    <a href="https://www.acmicpc.net/problem/17492"  style="text-decoration:none; color:black; font-weight:bold">바둑알 점프</a>  | 17492 | 브루트포스 | 골드4  |
