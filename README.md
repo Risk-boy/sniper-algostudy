@@ -255,3 +255,7 @@
 | :---------------------------------------------------------------------------------------------------------------------------------------: | :---: | :----: | :----: |
 | <a href="https://www.acmicpc.net/problem/25045"  style="text-decoration:none; color:black; font-weight:bold">비즈마켓</a> | 25045 |  그리디  | 실버3  |
 |    <a href="https://www.acmicpc.net/problem/17492"  style="text-decoration:none; color:black; font-weight:bold">바둑알 점프</a>  | 17492 | 브루트포스 | 골드4  |
+| <a href="https://www.acmicpc.net/problem/16564"  style="text-decoration:none; color:black; font-weight:bold">히오스 프로게이머</a> | 16564 | 이분탐색 | 실버1  |
+|    <a href="https://www.acmicpc.net/problem/8972"  style="text-decoration:none; color:black; font-weight:bold">미친 아두이노</a>  | 8972 | 구현/시뮬레이션 | 골드3 |
+| <a href="https://www.acmicpc.net/problem/1669"  style="text-decoration:none; color:black; font-weight:bold">멍멍이 쓰다듬기</a> | 1669 |  수학  | 골드5 |
+|    <a href="https://www.acmicpc.net/problem/9342"  style="text-decoration:none; color:black; font-weight:bold">염색체</a>  | 9342 | 문자열 | 실버3 |
