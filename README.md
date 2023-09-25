@@ -8,7 +8,7 @@
 <br>
 [8월 2주차](#8월-2주차) | [8월 3주차](#8월-3주차) | [8월 4주차](#8월-4주차) | [8월 5주차](#8월-5주차)
 <br>
-[9월 2주차](#9월-2주차) | [9월 3주차](#9월-3주차) | [9월 4주차](#9월-4주차)
+[9월 2주차](#9월-2주차) | [9월 3주차](#9월-3주차) | [9월 4주차](#9월-4주차) | [9월 5주차](#9월-5주차)
 
 </div>
 
@@ -236,28 +236,37 @@
 
 ## 9월 3주차
 
-|                                                                   문제                                                                    | 번호  |  분류  | 난이도 |
-| :---------------------------------------------------------------------------------------------------------------------------------------: | :---: | :----: | :----: |
-| <a href="https://www.acmicpc.net/problem/29714"  style="text-decoration:none; color:black; font-weight:bold">브실이의 구슬 아이스크림</a> | 29714 |  구현  | 실버2  |
-|    <a href="https://www.acmicpc.net/problem/29726"  style="text-decoration:none; color:black; font-weight:bold">숏코딩의 왕 브실이</a>    | 29726 | 그리디 | 골드5  |
-|    <a href="https://www.acmicpc.net/problem/17225"  style="text-decoration:none; color:black; font-weight:bold">세훈이의 선물가게</a>    | 17225 | 구현 | 실버1  |
-|    <a href="https://www.acmicpc.net/problem/2528"  style="text-decoration:none; color:black; font-weight:bold">사다리</a>    | 2528 | 구현 | 골드3  |
-|    <a href="https://www.acmicpc.net/problem/7453"  style="text-decoration:none; color:black; font-weight:bold">합이 0인 네 정수</a>    | 7453 | 정렬 | 골드2  |
-|    <a href="https://www.acmicpc.net/problem/10025"  style="text-decoration:none; color:black; font-weight:bold">게으른 백곰</a>    | 10025 | 누적 합 | 실버3  |
-|    <a href="https://www.acmicpc.net/problem/1522"  style="text-decoration:none; color:black; font-weight:bold">문자열 교환</a>    | 1522 | 브루트포스/슬라이딩 윈도우 | 실버1  |
-|    <a href="https://www.acmicpc.net/problem/17825"  style="text-decoration:none; color:black; font-weight:bold">주사위 윷놀이</a>    | 17825 | 구현/브루트포스/시뮬레이션/백트래킹 | 골드2  |
-|    <a href="https://www.acmicpc.net/problem/11060"  style="text-decoration:none; color:black; font-weight:bold">점프 점프</a>    | 11060 | DP | 실버2  |
-|    <a href="https://www.acmicpc.net/problem/20182"  style="text-decoration:none; color:black; font-weight:bold">골목 대장 호석 - 효율성 1</a> | 20182 | 그래프 | 골드3  |
+|                                                                    문제                                                                    | 번호  |                분류                 | 난이도 |
+| :----------------------------------------------------------------------------------------------------------------------------------------: | :---: | :---------------------------------: | :----: |
+| <a href="https://www.acmicpc.net/problem/29714"  style="text-decoration:none; color:black; font-weight:bold">브실이의 구슬 아이스크림</a>  | 29714 |                구현                 | 실버2  |
+|    <a href="https://www.acmicpc.net/problem/29726"  style="text-decoration:none; color:black; font-weight:bold">숏코딩의 왕 브실이</a>     | 29726 |               그리디                | 골드5  |
+|     <a href="https://www.acmicpc.net/problem/17225"  style="text-decoration:none; color:black; font-weight:bold">세훈이의 선물가게</a>     | 17225 |                구현                 | 실버1  |
+|           <a href="https://www.acmicpc.net/problem/2528"  style="text-decoration:none; color:black; font-weight:bold">사다리</a>           | 2528  |                구현                 | 골드3  |
+|      <a href="https://www.acmicpc.net/problem/7453"  style="text-decoration:none; color:black; font-weight:bold">합이 0인 네 정수</a>      | 7453  |                정렬                 | 골드2  |
+|        <a href="https://www.acmicpc.net/problem/10025"  style="text-decoration:none; color:black; font-weight:bold">게으른 백곰</a>        | 10025 |               누적 합               | 실버3  |
+|        <a href="https://www.acmicpc.net/problem/1522"  style="text-decoration:none; color:black; font-weight:bold">문자열 교환</a>         | 1522  |     브루트포스/슬라이딩 윈도우      | 실버1  |
+|       <a href="https://www.acmicpc.net/problem/17825"  style="text-decoration:none; color:black; font-weight:bold">주사위 윷놀이</a>       | 17825 | 구현/브루트포스/시뮬레이션/백트래킹 | 골드2  |
+|         <a href="https://www.acmicpc.net/problem/11060"  style="text-decoration:none; color:black; font-weight:bold">점프 점프</a>         | 11060 |                 DP                  | 실버2  |
+| <a href="https://www.acmicpc.net/problem/20182"  style="text-decoration:none; color:black; font-weight:bold">골목 대장 호석 - 효율성 1</a> | 20182 |               그래프                | 골드3  |
 
 ## 9월 4주차
 
-|                                                                   문제                                                                    | 번호  |  분류  | 난이도 |
-| :---------------------------------------------------------------------------------------------------------------------------------------: | :---: | :----: | :----: |
-| <a href="https://www.acmicpc.net/problem/25045"  style="text-decoration:none; color:black; font-weight:bold">비즈마켓</a> | 25045 |  그리디  | 실버3  |
-|    <a href="https://www.acmicpc.net/problem/17492"  style="text-decoration:none; color:black; font-weight:bold">바둑알 점프</a>  | 17492 | 브루트포스 | 골드4  |
-| <a href="https://www.acmicpc.net/problem/16564"  style="text-decoration:none; color:black; font-weight:bold">히오스 프로게이머</a> | 16564 | 이분탐색 | 실버1  |
-|    <a href="https://www.acmicpc.net/problem/8972"  style="text-decoration:none; color:black; font-weight:bold">미친 아두이노</a>  | 8972 | 구현/시뮬레이션 | 골드3 |
-| <a href="https://www.acmicpc.net/problem/1669"  style="text-decoration:none; color:black; font-weight:bold">멍멍이 쓰다듬기</a> | 1669 |  수학  | 골드5 |
-|    <a href="https://www.acmicpc.net/problem/9342"  style="text-decoration:none; color:black; font-weight:bold">염색체</a>  | 9342 | 문자열 | 실버3 |
-|    <a href="https://www.acmicpc.net/problem/16967"  style="text-decoration:none; color:black; font-weight:bold">배열 복원하기</a>  | 16967 | 구현 | 실버3 |
-|    <a href="https://www.acmicpc.net/problem/17182"  style="text-decoration:none; color:black; font-weight:bold">우주 탐사</a>  | 17182 | 그래프 이론/비트마스킹/백트래킹/플로이드–워셜 | 골드3 |
+|                                                                문제                                                                | 번호  |                     분류                      | 난이도 |
+| :--------------------------------------------------------------------------------------------------------------------------------: | :---: | :-------------------------------------------: | :----: |
+|     <a href="https://www.acmicpc.net/problem/25045"  style="text-decoration:none; color:black; font-weight:bold">비즈마켓</a>      | 25045 |                    그리디                     | 실버3  |
+|    <a href="https://www.acmicpc.net/problem/17492"  style="text-decoration:none; color:black; font-weight:bold">바둑알 점프</a>    | 17492 |                  브루트포스                   | 골드4  |
+| <a href="https://www.acmicpc.net/problem/16564"  style="text-decoration:none; color:black; font-weight:bold">히오스 프로게이머</a> | 16564 |                   이분탐색                    | 실버1  |
+|   <a href="https://www.acmicpc.net/problem/8972"  style="text-decoration:none; color:black; font-weight:bold">미친 아두이노</a>    | 8972  |                구현/시뮬레이션                | 골드3  |
+|  <a href="https://www.acmicpc.net/problem/1669"  style="text-decoration:none; color:black; font-weight:bold">멍멍이 쓰다듬기</a>   | 1669  |                     수학                      | 골드5  |
+|       <a href="https://www.acmicpc.net/problem/9342"  style="text-decoration:none; color:black; font-weight:bold">염색체</a>       | 9342  |                    문자열                     | 실버3  |
+|   <a href="https://www.acmicpc.net/problem/16967"  style="text-decoration:none; color:black; font-weight:bold">배열 복원하기</a>   | 16967 |                     구현                      | 실버3  |
+|     <a href="https://www.acmicpc.net/problem/17182"  style="text-decoration:none; color:black; font-weight:bold">우주 탐사</a>     | 17182 | 그래프 이론/비트마스킹/백트래킹/플로이드–워셜 | 골드3  |
+|     <a href="https://www.acmicpc.net/problem/1520"  style="text-decoration:none; color:black; font-weight:bold">내리막 길</a>      | 1520  |                    DP/DFS                     | 골드3  |
+| <a href="https://www.acmicpc.net/problem/2553"  style="text-decoration:none; color:black; font-weight:bold">마지막 팩토리얼 수</a> | 2553  |                     수학                      | 실버2  |
+
+## 9월 5주차
+
+|                                                              문제                                                              | 번호  |     분류      | 난이도 |
+| :----------------------------------------------------------------------------------------------------------------------------: | :---: | :-----------: | :----: |
+| <a href="https://www.acmicpc.net/problem/30088"  style="text-decoration:none; color:black; font-weight:bold">공포의 면담실</a> | 30088 | 그리디/누적합 | 실버5  |
+| <a href="https://www.acmicpc.net/problem/29811"  style="text-decoration:none; color:black; font-weight:bold">지각하기 싫어</a> | 29811 |   자료구조    | 골드4  |
