@@ -295,4 +295,6 @@
 
 |                                                              문제                                                              | 번호  |     분류      | 난이도 |
 | :----------------------------------------------------------------------------------------------------------------------------: | :---: | :-----------: | :----: |
+| <a href="https://www.acmicpc.net/problem/9421"  style="text-decoration:none; color:black; font-weight:bold">소수상근수</a> | 9421 | 수학 | 실버1 |
+| <a href="https://www.acmicpc.net/problem/20366"  style="text-decoration:none; color:black; font-weight:bold">같이 눈사람 만들래?</a> | 20366 | 정렬 | 골드3 |
 
