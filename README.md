@@ -10,7 +10,7 @@
 <br>
 [9월 2주차](#9월-2주차) | [9월 3주차](#9월-3주차) | [9월 4주차](#9월-4주차) | [9월 5주차](#9월-5주차) | [추석🌰](#추석)
 <br>
-[10월 1주차](#10월-1주차)
+[10월 1주차](#10월-1주차) | [10월 2주차](#10월-2주차)
 
 </div>
 
@@ -268,33 +268,41 @@
 
 ## 9월 5주차
 
-|                                                              문제                                                              | 번호  |     분류      | 난이도 |
-| :----------------------------------------------------------------------------------------------------------------------------: | :---: | :-----------: | :----: |
-| <a href="https://www.acmicpc.net/problem/30088"  style="text-decoration:none; color:black; font-weight:bold">공포의 면담실</a> | 30088 | 그리디/누적합 | 실버5  |
-| <a href="https://www.acmicpc.net/problem/29811"  style="text-decoration:none; color:black; font-weight:bold">지각하기 싫어</a> | 29811 |   자료구조    | 골드4  |
+|                                                                  문제                                                                  | 번호  |      분류       | 난이도 |
+| :------------------------------------------------------------------------------------------------------------------------------------: | :---: | :-------------: | :----: |
+|     <a href="https://www.acmicpc.net/problem/30088"  style="text-decoration:none; color:black; font-weight:bold">공포의 면담실</a>     | 30088 |  그리디/누적합  | 실버5  |
+|     <a href="https://www.acmicpc.net/problem/29811"  style="text-decoration:none; color:black; font-weight:bold">지각하기 싫어</a>     | 29811 |    자료구조     | 골드4  |
 | <a href="https://www.acmicpc.net/problem/15805"  style="text-decoration:none; color:black; font-weight:bold">트리 나라 관광 가이드</a> | 15805 | 그래프이론/트리 | 실버1  |
-| <a href="https://www.acmicpc.net/problem/23326"  style="text-decoration:none; color:black; font-weight:bold">홍익 투어리스트</a> | 23326 |   자료구조    | 골드3 |
-| <a href="https://www.acmicpc.net/problem/17390"  style="text-decoration:none; color:black; font-weight:bold">이건 꼭 풀어야 해!</a> | 17390 |  정렬  | 실버3  |
-| <a href="https://www.acmicpc.net/problem/11265"  style="text-decoration:none; color:black; font-weight:bold">끝나지 않는 파티</a> | 11265 |   그래프 이론  | 골드5 |
+|    <a href="https://www.acmicpc.net/problem/23326"  style="text-decoration:none; color:black; font-weight:bold">홍익 투어리스트</a>    | 23326 |    자료구조     | 골드3  |
+|  <a href="https://www.acmicpc.net/problem/17390"  style="text-decoration:none; color:black; font-weight:bold">이건 꼭 풀어야 해!</a>   | 17390 |      정렬       | 실버3  |
+|   <a href="https://www.acmicpc.net/problem/11265"  style="text-decoration:none; color:black; font-weight:bold">끝나지 않는 파티</a>    | 11265 |   그래프 이론   | 골드5  |
 
 ## 추석🌰
 
-|                                                              문제                                                              | 번호  |     분류      | 난이도 |
-| :----------------------------------------------------------------------------------------------------------------------------: | :---: | :-----------: | :----: |
-| <a href="https://www.acmicpc.net/problem/14594"  style="text-decoration:none; color:black; font-weight:bold">동방 프로젝트 (Small)</a> | 14594 | 구현 | 실버4  |
-| <a href="https://www.acmicpc.net/problem/1986"  style="text-decoration:none; color:black; font-weight:bold">체스</a> | 1986 | 구현 | 실버1 |
-| <a href="https://www.acmicpc.net/problem/1800"  style="text-decoration:none; color:black; font-weight:bold">인터넷 설치</a> | 1800 | 그래프이론 | 골드1 |
-| <a href="https://www.acmicpc.net/problem/25421"  style="text-decoration:none; color:black; font-weight:bold">조건에 맞는 정수의 개수</a> | 25421 |  DP  | 실버1 |
-| <a href="https://www.acmicpc.net/problem/15980"  style="text-decoration:none; color:black; font-weight:bold">명상 방해꾼</a> | 15980 |  구현  | 골드5 |
-| <a href="https://www.acmicpc.net/problem/12757"  style="text-decoration:none; color:black; font-weight:bold">전설의 JBNU</a> | 12757 | 자료구조 | 골드3 |
-| <a href="https://www.acmicpc.net/problem/2615"  style="text-decoration:none; color:black; font-weight:bold">오목</a> | 2615 | 구현 | 실버1 |
-| <a href="https://www.acmicpc.net/problem/1342"  style="text-decoration:none; color:black; font-weight:bold">행운의 문자열</a> | 1342 | 수학 | 실버1 |
-| <a href="https://www.acmicpc.net/problem/17616"  style="text-decoration:none; color:black; font-weight:bold">등수 찾기</a> | 17616 | 그래프이론 | 골드3 |
+|                                                                   문제                                                                   | 번호  |    분류    | 난이도 |
+| :--------------------------------------------------------------------------------------------------------------------------------------: | :---: | :--------: | :----: |
+|  <a href="https://www.acmicpc.net/problem/14594"  style="text-decoration:none; color:black; font-weight:bold">동방 프로젝트 (Small)</a>  | 14594 |    구현    | 실버4  |
+|           <a href="https://www.acmicpc.net/problem/1986"  style="text-decoration:none; color:black; font-weight:bold">체스</a>           | 1986  |    구현    | 실버1  |
+|       <a href="https://www.acmicpc.net/problem/1800"  style="text-decoration:none; color:black; font-weight:bold">인터넷 설치</a>        | 1800  | 그래프이론 | 골드1  |
+| <a href="https://www.acmicpc.net/problem/25421"  style="text-decoration:none; color:black; font-weight:bold">조건에 맞는 정수의 개수</a> | 25421 |     DP     | 실버1  |
+|       <a href="https://www.acmicpc.net/problem/15980"  style="text-decoration:none; color:black; font-weight:bold">명상 방해꾼</a>       | 15980 |    구현    | 골드5  |
+|       <a href="https://www.acmicpc.net/problem/12757"  style="text-decoration:none; color:black; font-weight:bold">전설의 JBNU</a>       | 12757 |  자료구조  | 골드3  |
+|           <a href="https://www.acmicpc.net/problem/2615"  style="text-decoration:none; color:black; font-weight:bold">오목</a>           | 2615  |    구현    | 실버1  |
+|      <a href="https://www.acmicpc.net/problem/1342"  style="text-decoration:none; color:black; font-weight:bold">행운의 문자열</a>       | 1342  |    수학    | 실버1  |
+|        <a href="https://www.acmicpc.net/problem/17616"  style="text-decoration:none; color:black; font-weight:bold">등수 찾기</a>        | 17616 | 그래프이론 | 골드3  |
 
 ## 10월 1주차
 
-|                                                              문제                                                              | 번호  |     분류      | 난이도 |
-| :----------------------------------------------------------------------------------------------------------------------------: | :---: | :-----------: | :----: |
-| <a href="https://www.acmicpc.net/problem/9421"  style="text-decoration:none; color:black; font-weight:bold">소수상근수</a> | 9421 | 수학 | 실버1 |
-| <a href="https://www.acmicpc.net/problem/20366"  style="text-decoration:none; color:black; font-weight:bold">같이 눈사람 만들래?</a> | 20366 | 정렬 | 골드3 |
+|                                                                 문제                                                                 | 번호  |   분류    | 난이도 |
+| :----------------------------------------------------------------------------------------------------------------------------------: | :---: | :-------: | :----: |
+|      <a href="https://www.acmicpc.net/problem/9421"  style="text-decoration:none; color:black; font-weight:bold">소수상근수</a>      | 9421  |   수학    | 실버1  |
+| <a href="https://www.acmicpc.net/problem/20366"  style="text-decoration:none; color:black; font-weight:bold">같이 눈사람 만들래?</a> | 20366 |   정렬    | 골드3  |
+|    <a href="https://www.acmicpc.net/problem/22233"  style="text-decoration:none; color:black; font-weight:bold">가희와 키워드</a>    | 22233 | 자료 구조 | 실버2  |
+|     <a href="https://www.acmicpc.net/problem/2179"  style="text-decoration:none; color:black; font-weight:bold">비슷한 단어</a>      | 2179  | 자료 구조 | 골드4  |
 
+## 10월 2주차
+
+|                                                            문제                                                            | 번호  |    분류     | 난이도 |
+| :------------------------------------------------------------------------------------------------------------------------: | :---: | :---------: | :----: |
+| <a href="https://www.acmicpc.net/problem/2009"  style="text-decoration:none; color:black; font-weight:bold">Minecraft</a>  | 2009  | 구현/그리디 | 실버2  |
+| <a href="https://www.acmicpc.net/problem/30190"  style="text-decoration:none; color:black; font-weight:bold">여우의 꿈</a> | 30190 |    수학     | 골드5  |
