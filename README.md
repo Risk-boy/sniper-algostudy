@@ -302,11 +302,13 @@
 
 ## 10월 2주차
 
-|                                                            문제                                                            | 번호  |    분류     | 난이도 |
-| :------------------------------------------------------------------------------------------------------------------------: | :---: | :---------: | :----: |
-| <a href="https://www.acmicpc.net/problem/2009"  style="text-decoration:none; color:black; font-weight:bold">Minecraft</a>  | 2009  | 구현/그리디 | 실버2  |
-| <a href="https://www.acmicpc.net/problem/30190"  style="text-decoration:none; color:black; font-weight:bold">여우의 꿈</a> | 30190 |    수학     | 골드5  |
-| <a href="https://www.acmicpc.net/problem/5464"  style="text-decoration:none; color:black; font-weight:bold">주차장</a> | 5464 | 구현/자료구조 | 실버2 |
-| <a href="https://www.acmicpc.net/problem/20005"  style="text-decoration:none; color:black; font-weight:bold">보스몬스터 전리품</a> | 20005 |  구현/그래프  | 골드3 |
-| <a href="https://www.acmicpc.net/problem/2852"  style="text-decoration:none; color:black; font-weight:bold">NBA 농구</a> | 2852 | 구현/문자열 | 실버3 |
-| <a href="https://www.acmicpc.net/problem/17255"  style="text-decoration:none; color:black; font-weight:bold">N으로 만들기</a> | 17255 |  자료구조/백트래킹  | 골드4 |
+|                                                                문제                                                                | 번호  |         분류          | 난이도 |
+| :--------------------------------------------------------------------------------------------------------------------------------: | :---: | :-------------------: | :----: |
+|     <a href="https://www.acmicpc.net/problem/2009"  style="text-decoration:none; color:black; font-weight:bold">Minecraft</a>      | 2009  |      구현/그리디      | 실버2  |
+|     <a href="https://www.acmicpc.net/problem/30190"  style="text-decoration:none; color:black; font-weight:bold">여우의 꿈</a>     | 30190 |         수학          | 골드5  |
+|       <a href="https://www.acmicpc.net/problem/5464"  style="text-decoration:none; color:black; font-weight:bold">주차장</a>       | 5464  |     구현/자료구조     | 실버2  |
+| <a href="https://www.acmicpc.net/problem/20005"  style="text-decoration:none; color:black; font-weight:bold">보스몬스터 전리품</a> | 20005 |      구현/그래프      | 골드3  |
+|      <a href="https://www.acmicpc.net/problem/2852"  style="text-decoration:none; color:black; font-weight:bold">NBA 농구</a>      | 2852  |      구현/문자열      | 실버3  |
+|   <a href="https://www.acmicpc.net/problem/17255"  style="text-decoration:none; color:black; font-weight:bold">N으로 만들기</a>    | 17255 |   자료구조/백트래킹   | 골드4  |
+|  <a href="https://www.acmicpc.net/problem/20922"  style="text-decoration:none; color:black; font-weight:bold">겹치는 건 싫어</a>   | 20922 |       두 포인터       | 실버1  |
+|        <a href="https://www.acmicpc.net/problem/2234"  style="text-decoration:none; color:black; font-weight:bold">성곽</a>        | 2234  | 그래프이론/비트마스킹 | 골드3  |
