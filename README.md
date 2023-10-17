@@ -10,7 +10,7 @@
 <br>
 [9월 2주차](#9월-2주차) | [9월 3주차](#9월-3주차) | [9월 4주차](#9월-4주차) | [9월 5주차](#9월-5주차) | [추석🌰](#추석)
 <br>
-[10월 1주차](#10월-1주차) | [10월 2주차](#10월-2주차)
+[10월 1주차](#10월-1주차) | [10월 2주차](#10월-2주차) | [10월 3주차](#10월-3주차)
 
 </div>
 
@@ -312,3 +312,15 @@
 |   <a href="https://www.acmicpc.net/problem/17255"  style="text-decoration:none; color:black; font-weight:bold">N으로 만들기</a>    | 17255 |   자료구조/백트래킹   | 골드4  |
 |  <a href="https://www.acmicpc.net/problem/20922"  style="text-decoration:none; color:black; font-weight:bold">겹치는 건 싫어</a>   | 20922 |       두 포인터       | 실버1  |
 |        <a href="https://www.acmicpc.net/problem/2234"  style="text-decoration:none; color:black; font-weight:bold">성곽</a>        | 2234  | 그래프이론/비트마스킹 | 골드3  |
+
+## 10월 3주차
+
+|                                                                문제                                                                | 번호  |         분류          | 난이도 |
+| :--------------------------------------------------------------------------------------------------------------------------------: | :---: | :-------------------: | :----: |
+|     <a href="https://www.acmicpc.net/problem/1283"  style="text-decoration:none; color:black; font-weight:bold">단축키 지정</a>      | 1283 |      구현/문자열      | 실버2 |
+|     <a href="https://www.acmicpc.net/problem/1332"  style="text-decoration:none; color:black; font-weight:bold">풀자</a>     | 1332 |   브루트포스   | 골드3 |
+|       <a href="https://www.acmicpc.net/problem/15815"  style="text-decoration:none; color:black; font-weight:bold">천재 수학자 성필</a>  | 15815  |  자료 구조  | 실버3 |
+| <a href="https://www.acmicpc.net/problem/1941"  style="text-decoration:none; color:black; font-weight:bold">소문난 칠공주</a> | 1941 |  수학/그래프이론  | 골드3 |
+|      <a href="https://www.acmicpc.net/problem/3187"  style="text-decoration:none; color:black; font-weight:bold">양치기 꿍</a>   | 3187 |  그래프 이론  | 실버1 |
+|   <a href="https://www.acmicpc.net/problem/14725"  style="text-decoration:none; color:black; font-weight:bold">개미굴</a>    | 14725 |  자료구조  | 골드3 |
+
